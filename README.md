@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arvinaufal" target="blank"><img src="https://img.shields.io/twitter/follow/arvinaufal?logo=twitter&style=for-the-badge" alt="arvinaufal" /></a> </p>
 
-- 🔭 I’m currently working at **Phiraka <3**
+- 🔭 I’m currently working at **Trendier AI <3**
 
 - 😄 Pronouns: He/Him
 
